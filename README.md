@@ -15,7 +15,7 @@ A command-line tool to monitor system performance metrics in real-time within yo
     * Displays total data transferred
 * **Top Processes** 
 * **Temperature and Fan Speeds**
-* 
+
 ## Getting Started
 ### Prerequisites
 ensure you have the following installed on your system:
