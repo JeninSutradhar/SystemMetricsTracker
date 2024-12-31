@@ -2,6 +2,8 @@
 
 A command-line tool to monitor system performance metrics in real-time within your terminal.
 
+![image](https://github.com/user-attachments/assets/c02ef511-0193-4203-b027-76088e4511d9)
+
 ## Features
 
 * **Real-time System Monitoring** 
