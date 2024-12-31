@@ -42,15 +42,14 @@ sudo dnf install gcc ncurses-devel
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/JeninSutradhar/system-metrics-tracker.git
-   cd system-metrics-tracker
+   git clone https://github.com/JeninSutradhar/SystemMetricsTracker.git
+   cd SystemMetricsTracker
    ```
-   **(Replace `your-username/system-metrics-tracker` with the actual repository URL)**
 
 2. **Compile the Code:**
 
    ```bash
-   gcc system_metrics.c -o system_metrics -lncurses
+   gcc main.c -o system_metrics -lncurses
    ```
 
    * `-lncurses`: Links the `ncurses` library.
